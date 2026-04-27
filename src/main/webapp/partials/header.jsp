@@ -54,7 +54,7 @@
                         <div class="profile-avatar">
                             <i class="fas fa-user"></i>
                         </div>
-                        <span>Kastro</span>
+                        <span>Guddu</span>
                         <i class="fas fa-chevron-down"></i>
                     </button>
 
